@@ -1,1 +1,1 @@
-Testing file created from vs code
+Testing file created from vs code from bug2 branch
